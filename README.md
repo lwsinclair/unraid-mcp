@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/jmagar-unraid-mcp)
+
 # Unraid MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@jmagar/unraid-mcp)](https://smithery.ai/server/@jmagar/unraid-mcp)
